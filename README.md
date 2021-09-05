@@ -4,7 +4,13 @@
 
 ## Dev Environment
 
-_Code Editor:_ Visual Studio Code
+*Code Editor:* Visual Studio Code
 
-## History
+*Programming Language:* JavaScript
+
+## Changelog
+
+- 2021-09-05, Otávio Souza
+  - Flags
+  - Running RegEx on different languages - JavaScript, Python, Ruby
 
