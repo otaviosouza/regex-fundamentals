@@ -15,4 +15,7 @@
     - Flags
     - Running on different languages - JavaScript, Python, Ruby
   - Characters
+    - Simple characters
+    - Metacharacters
+  - Character Classes
 
