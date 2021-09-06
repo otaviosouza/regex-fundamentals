@@ -1,6 +1,8 @@
 # Regular Expressions (Regex) Practicing
 
 >  Fundamentals of Regular Expressions.
+>
+> [Cod3r Cursos](https://bit.ly/3kYvTIF)
 
 ## Dev Environment
 
@@ -10,6 +12,9 @@
 
 ## Changelog
 
+- 2021-09-06, Otávio Souza
+  - Quantifiers
+
 - 2021-09-05, Otávio Souza
   - Running RegEx
     - Flags
@@ -18,4 +23,5 @@
     - Simple characters
     - Metacharacters
   - Character Classes
-
+    - Range
+    - Shorthands
