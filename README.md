@@ -13,6 +13,13 @@
 ## Changelog
 
 - 2021-09-06, Otávio Souza
+  - Close Fundamentals of RegEx Course
+  - Assignments
+    - Validating password and email
+    - Validating IPv4 address
+    - Apply Syntax Highlight to HTML source code
+  - Boundaries
+  - Groups
   - Quantifiers
 
 - 2021-09-05, Otávio Souza
