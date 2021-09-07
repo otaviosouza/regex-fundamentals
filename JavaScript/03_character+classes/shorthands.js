@@ -1,5 +1,5 @@
-// \w - ASCII characteres [a-zA-Z0-9_]
-// \W - not characteres [^a-zA-Z0-9_]
+// \w - ASCII characters [a-zA-Z0-9_]
+// \W - not characters [^a-zA-Z0-9_]
 // \d - numbers [0-9]
 // \D - not numbers [^0-9]
 // \s - blanks [ \t\n\r\f]

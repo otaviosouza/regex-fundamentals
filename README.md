@@ -1,14 +1,25 @@
-# Regular Expressions (Regex) Practicing
+# Regular Expressions (RegExp)
 
 >  Fundamentals of Regular Expressions.
->
-> [Cod3r Cursos](https://bit.ly/3kYvTIF)
+
+
+**JavaScript**: [Cod3r Cursos](https://bit.ly/3kYvTIF)
+ - [JavaScript RegExp Reference](https://bit.ly/3ngTOps)
+
+**Python**: [Luiz Otávio Miranda](https://bit.ly/2X19TFd)
+ - [The Python Standard Library ](https://bit.ly/3n5K3KZ)
+ - [Regular Expression HOWTO](https://bit.ly/3jNQ9NO)
+
+*Note*: for convenience texts will be in Portuguese
+as were designed to.
 
 ## Dev Environment
 
-*Code Editor:* Visual Studio Code
+*Programming Languages*:&emsp;&emsp;JavaScript, Python
 
-*Programming Language:* JavaScript
+*Operating System*:&emsp;&emsp;&emsp;&emsp;&emsp;Fedora 34
+
+*Code Editor*:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Visual Studio Code
 
 ## Changelog
 

@@ -21,7 +21,7 @@ console.log(text.match(/[2-4]/g))
 console.log(text.match(/[A-Z1-3]/gi))
 console.log(text.match(/[A-Za-z]/g))
 
-// range and metacharacteres
+// range and metacharacters
 const meta = '.?*+-^$:'
 
 // may need a escape inside a class: - [] ^
