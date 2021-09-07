@@ -23,6 +23,9 @@ as were designed to.
 
 ## Changelog
 
+- 2021-09-07, Otávio Souza
+  - Beginning of Python RegExp Course
+
 - 2021-09-06, Otávio Souza
   - Close Fundamentals of RegEx Course
   - Assignments
