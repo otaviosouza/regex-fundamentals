@@ -25,6 +25,8 @@ as were designed to.
 
 - 2021-09-07, Otávio Souza
   - Beginning of Python RegExp Course
+    - Classes
+    - Assignments
 
 - 2021-09-06, Otávio Souza
   - Close Fundamentals of RegEx Course
