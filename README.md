@@ -24,6 +24,7 @@ as were designed to.
 ## Changelog
 
 - 2021-09-07, Otávio Souza
+  - Close Python RegExp Course
   - Beginning of Python RegExp Course
     - Classes
     - Assignments
